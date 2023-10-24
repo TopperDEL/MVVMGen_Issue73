@@ -4,7 +4,7 @@ using MVVMGen_Issue73;
 
 Console.WriteLine("Hello, World!");
 
-var cl = new TestClass2();
+var cl = new TestClass1();
 cl.Test();
 
 await Task.Delay(1000);
